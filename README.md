@@ -21,6 +21,7 @@
 - Ios app developing
 - Peer to peer learning and mentoring
 - reading company techblog
+<hr>
 
 <div align=center>
   
