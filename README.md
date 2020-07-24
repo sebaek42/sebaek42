@@ -31,7 +31,7 @@
 
 <div align=center>
  
-[![Github.Wiki Badge](https://img.shields.io/badge/Github.Wiki-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sebaek42/report/wiki/Life_is_42](https://github.com/sebaek42/report/wiki/Life_is_42https://github.com/sebaek42/report/wiki/Life_is_42)
+[![Github Wiki Badge](https://img.shields.io/badge/Github Wiki-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sebaek42/report/wiki/Life_is_42](https://github.com/sebaek42/report/wiki/Life_is_42https://github.com/sebaek42/report/wiki/Life_is_42)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
 
