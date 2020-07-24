@@ -31,7 +31,7 @@
 
 <div align=center>
  
-[![Gitea Badge](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=Gitea&logoColor=white&link=http://git.innovationacademy.kr/sebaek/report)](http://git.innovationacademy.kr/sebaek/report)
+[![GithubWiki Badge](https://img.shields.io/badge/GithubWiki-181717?style=flat-square&logo=Gitea&logoColor=white&link=http://git.innovationacademy.kr/sebaek/report)](http://git.innovationacademy.kr/sebaek/report)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
 
