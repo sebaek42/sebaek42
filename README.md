@@ -2,14 +2,10 @@
 
 
 <div align=left>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 <div align=right>
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ## Konkuk University Senior student
 - '기술경영학'과 '컴퓨터공학' 복수전공중
