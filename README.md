@@ -15,15 +15,19 @@
 [[About 42Network](https://www.codam.nl/en/the-42-network)] [[About 42SEOUL(kor)](https://42seoul.kr/about)]
  [[About Piscine(kor)](https://news.joins.com/article/23695249)]
 
-
-
 ## Interest
+- Ios 앱 개발
+- 동료간 학습을 통한 성장
+- Ios app developing
+- Peer to peer learning and mentoring
+
 <div align=center>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
 
 <!--
 **sebaek42/sebaek42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
