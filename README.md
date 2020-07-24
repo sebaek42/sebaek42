@@ -36,8 +36,8 @@
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek42)](https://hits.seeyoufarm.com)　　
-[![GithubWiki Badge](https://img.shields.io/badge/GitHub.Wiki-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sebaek42/report/wiki/Life_is_42)](https://github.com/sebaek42/report/wiki/Life_is_42https://github.com/sebaek42/report/wiki/Life_is_42)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
+[![GithubWiki Badge](https://img.shields.io/badge/GitHub.Wiki-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sebaek42/report/wiki/Life_is_42)](https://github.com/sebaek42/report/wiki/Life_is_42https://github.com/sebaek42/report/wiki/Life_is_42)　
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)　
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)　
 
 </div>
