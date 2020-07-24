@@ -1,12 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaek&repo=sebaek" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sebaek&repo=sebaek" />
-</a>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek42)](https://hits.seeyoufarm.com)
-
 ## Konkuk University Senior student
 - '기술경영학'과 '컴퓨터공학' 복수전공중
 - Double majoring in 'Management of technology' and 'Computer Science'
