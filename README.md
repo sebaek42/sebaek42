@@ -25,7 +25,7 @@
 
 <div align=center>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek42)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
