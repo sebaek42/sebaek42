@@ -1,4 +1,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek42)](https://hits.seeyoufarm.com)
+
+
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
+</div>
+
 ## Konkuk University Senior student
 - '기술경영학'과 '컴퓨터공학' 복수전공중
 - Double majoring in 'Management of technology' and 'Computer Science'
@@ -23,15 +34,6 @@
 - Peer to peer learning and mentoring
 - straighten my knowledge out with github Wiki 
 <hr>
-
-<div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sebaek42&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
-</div>
 
 <div align=center>
  
