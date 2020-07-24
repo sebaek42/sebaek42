@@ -18,10 +18,10 @@
 ## Interest
 - Ios 앱 개발
 - 동료간 학습을 통한 성장
-- 기술블로그 읽기
+- 기업 기술블로그 읽기
 - Ios app developing
 - Peer to peer learning and mentoring
-- reading techblog
+- reading company techblog
 
 <div align=center>
   
@@ -29,7 +29,9 @@
 
 </div>
 
+<div align=center>
+ 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
-
+</div>
