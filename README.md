@@ -9,7 +9,7 @@
 - Experienced 42SEOUL Piscine during 2020.01.20 ~ 2020.02.20
 ### Global Network of 42
 
-![42Network](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F42siliconvalley%2Fstatus%2F1141457655073951745&psig=AOvVaw2mmb9aUD5n9pDaWf4om7GM&ust=1595671458545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCs48XR5eoCFQAAAAAdAAAAABAD)
+![](https://pbs.twimg.com/media/D9c7k5CU8AE560J?format=jpg&name=4096x4096)
 
 [About 42Network](https://www.codam.nl/en/the-42-network)<br>
 [About 42SEOUL](https://42seoul.kr/about)<br>
