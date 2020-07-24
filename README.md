@@ -15,12 +15,14 @@
  [[About Piscine(kor)](https://news.joins.com/article/23695249)]
 
 ## Interest
+- 1일 1알고리즘 문제 풀기
 - Ios 앱 개발
 - 동료간 학습을 통한 성장
-- 기업 기술블로그 읽기
+- 학습한 내용 깃헙에 정리
+- solving 1 algorithm per day
 - Ios app developing
 - Peer to peer learning and mentoring
-- reading company techblog
+- straighten my knowledge out with github Wiki 
 <hr>
 
 <div align=center>
