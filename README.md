@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsebaek42)](https://hits.seeyoufarm.com)
-<hr>
 
 ## Konkuk University Senior student
 - '기술경영학'과 '컴퓨터공학' 복수전공중
