@@ -16,8 +16,13 @@
 - Following curriculum of 42cursus since 2020.02.24
 ### Global Network of 42
 ![42network](https://github.com/sebaek42/sebaek42/blob/master/42network.jpeg)
+
+<div align=center>
+ 
 [[About 42Network](https://www.codam.nl/en/the-42-network)] [[About 42SEOUL(kor)](https://42seoul.kr/about)]
  [[About Piscine(kor)](https://news.joins.com/article/23695249)]
+
+</div>
 
 ## Interest
 - 1일 1알고리즘 문제 풀기
