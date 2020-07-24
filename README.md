@@ -18,8 +18,10 @@
 ## Interest
 - Ios 앱 개발
 - 동료간 학습을 통한 성장
+- 기술블로그 읽기
 - Ios app developing
 - Peer to peer learning and mentoring
+- reading techblog
 
 <div align=center>
   
@@ -29,17 +31,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
 
-<!--
-**sebaek42/sebaek42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
