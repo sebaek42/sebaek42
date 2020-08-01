@@ -28,11 +28,11 @@
 - 1일 1알고리즘 문제 풀기
 - Ios 앱 개발
 - 동료간 학습을 통한 성장
-- 학습한 내용 깃헙에 정리
+- 학습한 내용 노션에 정리
 - solving 1 algorithm per day
 - Ios app developing
 - Peer to peer learning and mentoring
-- straighten my knowledge out with github Wiki 
+- straighten my knowledge out with writing Notion 
 <hr>
 
 <div align=center>
