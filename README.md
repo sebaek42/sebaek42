@@ -6,10 +6,10 @@
 </div>
 
 ## Wellcome to my profile!👋 My interest is...
-- solving 1 algorithm per day
+- Solve 1 algorithm per day steadliy
 - Ios app developing
 - Peer to peer learning and mentoring
-- straighten my knowledge out by writing in Notion 
+- Straighten my knowledge out by writing in Notion 
 
 ## I am Konkuk University Senior student
 - Double majoring in 'Management of technology' and 'Computer Science'
