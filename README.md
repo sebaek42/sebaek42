@@ -23,8 +23,8 @@
 
 <div align=center>
  
-[[About 42Network](https://www.codam.nl/en/the-42-network)] [[About 42SEOUL(KOR)](https://42seoul.kr/about)]
- [[About Piscine(KOR)](https://news.joins.com/article/23695249)]
+[About 42Network](https://www.codam.nl/en/the-42-network) / [About 42SEOUL(KOR)](https://42seoul.kr/about) /
+ [About Piscine(KOR)](https://news.joins.com/article/23695249)
 
 </div>
 
