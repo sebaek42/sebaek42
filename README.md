@@ -5,34 +5,30 @@
 
 </div>
 
-## Konkuk University Senior student
-- '기술경영학'과 '컴퓨터공학' 복수전공중
+## Wellcome to my profile!👋 My interest is...
+- Solve 1 algorithm per day steadliy
+- Ios app developing
+- Peer to peer learning and mentoring
+- Straighten my knowledge out by writing in Notion 
+
+## I am Konkuk University Senior student
 - Double majoring in 'Management of technology' and 'Computer Science'
 
-## 42SEOUL Cadet
-- 2020년 1월 20일 ~ 2월 20일까지 Piscine기간을 거쳐 선발
-- 2020년 2월 24일부터 현재까지 본 교육과정 학습 중
+## And also, 42SEOUL Cadet
 - Experienced 42SEOUL Piscine during 2020.01.20 ~ 2020.02.20 and selected to join 42cursus.
 - Following curriculum of 42cursus since 2020.02.24
+
 ### Global Network of 42
 ![42network](https://github.com/sebaek42/sebaek42/blob/master/42network.jpeg)
 
 <div align=center>
  
-[[About 42Network](https://www.codam.nl/en/the-42-network)] [[About 42SEOUL(KOR)](https://42seoul.kr/about)]
- [[About Piscine(KOR)](https://news.joins.com/article/23695249)]
+[About 42Network](https://www.codam.nl/en/the-42-network) / [About 42SEOUL(KOR)](https://42seoul.kr/about) /
+ [About Piscine(KOR)](https://news.joins.com/article/23695249)
 
 </div>
 
-## Interest
-- 1일 1알고리즘 문제 풀기
-- Ios 앱 개발
-- 동료간 학습을 통한 성장
-- 학습한 내용 노션에 정리
-- solving 1 algorithm per day
-- Ios app developing
-- Peer to peer learning and mentoring
-- straighten my knowledge out with writing Notion 
+
 <hr>
 
 <div align=center>
