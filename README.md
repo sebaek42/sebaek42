@@ -17,7 +17,7 @@
 ## And also, 42SEOUL Cadet
 - Experienced 42SEOUL Piscine during 2020.01.20 ~ 2020.02.20 and selected to join 42cursus.
 - Following curriculum of 42cursus since 2020.02.24
-
+  
 ### Global Network of 42
 ![42network](https://github.com/sebaek42/sebaek42/blob/master/42network.jpeg)
 
