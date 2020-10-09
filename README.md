@@ -45,7 +45,7 @@
   
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sebaek)](https://www.facebook.com/profile.php?id=100002391583668)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jnseungho100@gmail.com)
-[![GithubWiki Badge](https://img.shields.io/badge/GitHub.Wiki-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/sebaek42/report/wiki/Life_is_42)](https://github.com/sebaek42/report/wiki/Life_is_42https://github.com/sebaek42/report/wiki/Life_is_42)
+[![42 Badge](https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white&link=https://https://42seoul.kr)](https://42seoul.kr/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Development-Diary-f6368dcbf8cc4ffdb4d102e40bfc57d3)](https://www.notion.so/Development-Diary-f6368dcbf8cc4ffdb4d102e40bfc57d3)
 
 </div>
