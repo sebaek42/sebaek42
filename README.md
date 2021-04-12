@@ -7,10 +7,10 @@
 
 ## Wellcome to my profile!👋 My interest is...
 - Solve 1 algorithm per day steadliy
-- Ios app developing
+- BE/FE development
 - Peer to peer learning and mentoring
-- Straighten my knowledge out by writing in Notion 
-
+- Straighten my knowledge out by writing in Notion or velog
+- my velog -> https://velog.io/@sebaek42
 ## I am Konkuk University Senior student
 - Double majoring in 'Management of technology' and 'Computer Science'
 
