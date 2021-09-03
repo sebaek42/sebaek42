@@ -6,18 +6,25 @@
 </div>
 
 ## Wellcome to my profile!👋 My interest is...
-- Solve 1 algorithm per day steadliy
-- BE/FE development
+- Spot out problems hidden in our life
+- Solve that problem with IT
 - Peer to peer learning and mentoring
 - Straighten my knowledge out by writing in Notion or velog
 - my velog -> https://velog.io/@sebaek42
+- my notion -> https://wiggly-prince-d7b.notion.site/Home-657cd947387f4e57bad2a69ac662e5cb
+
 ## I am Konkuk University Senior student
 - Double majoring in 'Management of technology' and 'Computer Science'
 
 ## And also, 42SEOUL Cadet
 - Experienced 42SEOUL Piscine during 2020.01.20 ~ 2020.02.20 and selected to join 42cursus.
-- Following curriculum of 42cursus since 2020.02.24
-  
+- Following curriculum of 42cursus since 2020.02.24 ~ on going
+
+## 7 weeks of Internship at "KB증권"
+- Developed MTS(web & app hybrid application) for "MZ generation" 
+- How I got the data : TR & Open API to fetch stock market data(![Open API]https://apiportal.kbfg.com/apimarket)
+- Tools I used : Vue, Bootstrap Vue, Jsp
+
 ### Global Network of 42
 ![42network](https://github.com/sebaek42/sebaek42/blob/master/42network.jpeg)
 
